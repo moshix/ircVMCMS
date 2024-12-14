@@ -1,5 +1,4 @@
-<a href="https://cas.codenotary.com"><img src="https://raw.githubusercontent.com/codenotary/cas/master/extra/badge/secured-by-cas.svg" width="119px;"/></a>
-<br>
+
 IRC client for VM/CMS
 =====================
 
